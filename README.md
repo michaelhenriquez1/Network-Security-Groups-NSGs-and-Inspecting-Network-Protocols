@@ -178,4 +178,8 @@ Observe the DHCP traffic appearing in WireShark:
 <br />
 <br />
 <p>
- 
+ Monitor network security protocols and analyze traffic between virtual machines.
+
+
+
+
